@@ -1,0 +1,82 @@
+[
+  {
+    "serviceType": "PREMIUM",
+    "name": "넷플릭스+유튜브 프리미엄",
+    "imageUrl": "https://image.lguplus.com/static/pc-contents/images/fcmm/cnts/imge/20220713-022359-087-oFzvtGNB.png"
+  },
+  {
+    "serviceType": "PREMIUM",
+    "name": "티빙",
+    "imageUrl": "https://image.lguplus.com/static/pc-contents/images/fcmm/cnts/imge/20220713-022359-087-oFzvtGNB.png"
+  },
+  {
+    "serviceType": "PREMIUM",
+    "name": "디즈니+",
+    "imageUrl": "https://image.lguplus.com/static/pc-contents/cv2022/images/indv/plan-sp-disneyplus.png"
+  },
+  {
+    "serviceType": "PREMIUM",
+    "name": "넷플릭스",
+    "imageUrl": "https://image.lguplus.com/static/pc-contents/cv2022/images/indv/plan-sp-netflix.png"
+  },
+  {
+    "serviceType": "PREMIUM",
+    "name": "유튜브 프리미엄",
+    "imageUrl": "https://image.lguplus.com/static/pc-contents/cv2022/images/indv/plan-sp-youtube-premium.png"
+  },
+  {
+    "serviceType": "PREMIUM",
+    "name": "헬로렌탈 구독",
+    "imageUrl": "https://image.lguplus.com/static/pc-contents/images/fcmm/cnts/imge/20220608-102646-081-52wcuszy.png"
+  },
+  {
+    "serviceType": "PREMIUM",
+    "name": "일리커피 구독",
+    "imageUrl": "https://image.lguplus.com/static/pc-contents/images/fcmm/cnts/imge/20220525-091736-366-52x1YBa0.png"
+  },
+  {
+    "serviceType": "PREMIUM",
+    "name": "구글패키지",
+    "imageUrl": "https://image.lguplus.com/static/pc-contents/cv2022/images/indv/plan-sp-googlepack.png"
+  },
+  {
+    "serviceType": "PREMIUM",
+    "name": "초등나라",
+    "imageUrl": "https://image.lguplus.com/static/pc-contents/cv2022/images/indv/plan-sp-children.png"
+  },
+  {
+    "serviceType": "PREMIUM",
+    "name": "갤럭시 버즈",
+    "imageUrl": "https://image.lguplus.com/static/pc-contents/cv2022/images/indv/plan-sp-buds.png"
+  },
+  {
+    "serviceType": "PREMIUM",
+    "name": "갤럭시 버즈2 프로",
+    "imageUrl": "https://image.lguplus.com/static/pc-contents/images/fcmm/cnts/imge/20220811-025322-772-9rJZdGNg.png"
+  },
+  {
+    "serviceType": "PREMIUM",
+    "name": "갤럭시 워치5",
+    "imageUrl": "https://image.lguplus.com/static/pc-contents/images/fcmm/cnts/imge/20220811-025420-708-Z7eQKyxC.png"
+  },
+  {
+    "serviceType": "MEDIA",
+    "name": "지니뮤직 앱",
+    "imageUrl": "https://image.lguplus.com/static/pc-contents/cv2022/images/indv/icon/ico-pack-genie.png"
+  },
+  {
+    "serviceType": "MEDIA",
+    "name": "U+영화월정액(구 영화월정액)",
+    "imageUrl": "https://image.lguplus.com/static/pc-contents/cv2022/images/indv/icon/ico-pack-movie.png"
+  },
+  {
+    "serviceType": "MEDIA",
+    "name": "U+아이들 생생도서관",
+    "imageUrl": "https://image.lguplus.com/static/pc-contents/cv2022/images/indv/icon/ico-pack-library.png"
+  },
+  {
+    "serviceType": "MEDIA",
+    "name": "밀리의 서재",
+    "imageUrl": "https://image.lguplus.com/static/pc-contents/cv2022/images/indv/icon/ico-pack-millie.png"
+  }
+]
